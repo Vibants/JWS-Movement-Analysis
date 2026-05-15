@@ -10,9 +10,9 @@ purpose of this final project is to describe patterns in JWS residency, horizont
 and depth usage in relation to sea surface temperature waters in a nearshore habitat. As 
 practiced in the rough draft, the major goal of this final project is to exercise 
 reproducibility, create a clear coding structure, access datsets, and utilize relevant 
-packages for cleaning/analysis/figure making. All files for final project uses a terminal and 
-Jupyter notebook the analysis workflow and creation of .py files for useful functions to 
-calculate residency within the VPS array.
+packages for cleaning/analysis/figure making. All files for the final project uses the terminal
+and Jupyter notebook for analysis workflow and the creation of .py files to make useful 
+functions for calculating residency within the VPS array.
 
 2)  Location of data and acknowledgement of source
 Data used for this project is stored in the repository as an subset R data file, not
@@ -42,7 +42,7 @@ Arrival (TDOA) or residency within the array.
 4) Location of data in repository, or how to access data
 
 The data file will be stored directly inside the "JWS-Movement-Analysis" GitHub project
-repository. Th files included for this final project is expected to look like:
+repository. The files for this final project will be imported as:
 
 	-README.md
 	-FINAL_projectdraft_MS263.ipynb
