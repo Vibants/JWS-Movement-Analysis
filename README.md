@@ -44,7 +44,7 @@ Arrival (TDOA) or residency within the array.
 The data file will be stored directly inside the "JWS-Movement-Analysis" GitHub project
 repository. Th files included for this final project is expected to look like:
 
-	-FinalREADME.md
+	-README.md
 	-FINAL_projectdraft_MS263.ipynb
 	-vps_data_subset.rds
 	-vps_functions.py   
